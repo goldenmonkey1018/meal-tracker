@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "000C4857B56C090D66438BBC01CAA8FAB6F75906",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C75D32F9C55A56DED782A8C5878F916B5F92392C" : 0,
+    "000C4857B56C090D66438BBC01CAA8FAB6F75906" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "90AF24A0-0D6F-492D-BD12-A82EF1E10476",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C75D32F9C55A56DED782A8C5878F916B5F92392C" : "SKTagView\/",
+    "000C4857B56C090D66438BBC01CAA8FAB6F75906" : "meal-tracker-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MealTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MealTracker.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tomchify\/meal-tracker-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "000C4857B56C090D66438BBC01CAA8FAB6F75906"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zsk425\/SKTagView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C75D32F9C55A56DED782A8C5878F916B5F92392C"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+../../../TTGTagCollectionView/Pod/Classes/TTGTextTagCollectionView.h
